@@ -4,6 +4,6 @@ You probably know me as the founder of <a href="https://pikuma.com" target="_bla
 
 I have received multiple teaching awards in my career as an educator. My degrees and academic path include institutions such as Pittsburg State University, City University of London, and University of Oxford.
 
-You can visit the lectures page for a complete list of classes and video books that currently open for enrollment.
+You can visit the <a href="https://pikuma.com/courses" target="_blank">courses</a> page for a complete list of lectures and classes that currently open for enrollment.
 
 After all is said and done, I'm just a guy who absolutely loves to teach... and I'm pretty sure it shows.
