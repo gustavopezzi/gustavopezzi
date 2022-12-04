@@ -6,4 +6,6 @@ I have received multiple teaching awards in my career as an educator. My degrees
 
 You can visit the <a href="https://pikuma.com/courses" target="_blank">courses</a> page for a complete list of lectures and classes that currently open for enrollment.
 
+<a href="https://pikuma.com/courses" target="_blank"><img src="https://gustavopezzi.com/images/boxes.png"/></a>
+
 After all is said and done, I'm just a guy who absolutely loves to teach... and I'm pretty sure it shows.
